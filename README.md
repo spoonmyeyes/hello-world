@@ -1,2 +1,2 @@
 # hello-world
-the start
+trying to start the data science specialization on Coursera, huh.
